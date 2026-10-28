@@ -1,1 +1,1 @@
-﻿Desafio Java conta corrente, Curso Alura
+Um desafio para criar uma conta corrente em Java
